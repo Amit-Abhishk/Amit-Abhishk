@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with backend development
 - 💬 Ask me about frontend/C/C++
 - 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/amit-a-322400107/)
-- 😄 Pronouns: He/his
+
